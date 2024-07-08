@@ -1,0 +1,137 @@
+{
+    "personal_information": {
+      "name": "Arnav Talan",
+      "location": "Greater Noida, Uttar Pradesh",
+      "email": "E21CSEU0045@bennett.edu.in",
+      "phone": "9412790890",
+      "linkedin": "https://www.linkedin.com/in/arnavtalan/"
+    },
+    "education": [
+      {
+        "institution": "Bennett University",
+        "location": "Greater Noida, India",
+        "degree": "B.Tech Computer Science and Engineering (Specialization- AI)",
+        "gpa": 7.4,
+        "years": "2021 - 2025"
+      },
+      {
+        "institution": "Pragyan Public School",
+        "location": "Jewar, Uttar Pradesh",
+        "degree": "Class XII PCM with Computer Science",
+        "gpa": 8.2,
+        "years": "April, 2020 - July, 2021"
+      },
+      {
+        "institution": "Pragyan Public School",
+        "location": "Jewar, Uttar Pradesh",
+        "degree": "Class X",
+        "gpa": 8.6,
+        "years": "April, 2018 - March, 2019"
+      }
+    ],
+    "technical_skills_and_competencies": {
+      "programming_languages": [
+        "Java",
+        "C++",
+        "Python",
+        "SQL",
+        "NoSQL",
+        "Kotlin",
+        "HTML/CSS/AMP",
+        "Dart",
+        "JavaScript"
+      ],
+      "libraries": [
+        "TensorFlow",
+        "Scikit-Learn",
+        "Pandas",
+        "Numpy",
+        "Open-CV2",
+        "Matplotlib",
+        "Keras",
+        "Detectron2"
+      ],
+      "frameworks": [
+        "H2O AUTOML",
+        "Flask",
+        "Monai",
+        "Spring Boot"
+      ],
+      "developer_tools": [
+        "MongoDB",
+        "Matlab",
+        "Android Studio",
+        "AWS",
+        "Colab",
+        "Figma",
+        "Anaconda",
+        "Virtual Box (Linux)"
+      ],
+      "skills": [
+        "UI/UX",
+        "DSA",
+        "AI and ML",
+        "Deep Learning",
+        "Cryptography",
+        "GAN",
+        "NLP",
+        "Data Science"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Salesforce Administrator Virtual Internship",
+        "duration": "8 Weeks",
+        "description": [
+          "Salesforce Fundamentals",
+          "Organizational Setup",
+          "Relationship & Sales",
+          "Cloud Service Cloud & Process Automation",
+          "Flow & Chatter",
+          "Security",
+          "Reports & Dashboards",
+          "Data Management"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "title": "Research Paper - CipherCraft: An Integrated Approach to Cryptographic Data Security in Modern Computing Environments",
+        "tools": ["Kaggle", "Github", "Colab (Python)", "TensorFlow", "Pytorch"],
+        "description": "Explored various cryptographic algorithms, random number generators, and discrete mathematical concepts, applying them to develop robust encryption systems."
+      },
+      {
+        "title": "Research Paper - Advancing Early Diagnostic Accuracy for Alzheimer Disease Through the Integration of Machine Learning and Deep Learning Paradigms by Applying Multisource Datasets",
+        "tools": ["Colab (Python)", "CUDA", "Pandas", "NumPy", "OpenCV", "Monai", "Scikit-learn", "TensorFlow"],
+        "description": "Developed and optimized predictive models, including neural networks and ensemble methods. Involved feature selection, hyperparameter tuning, and validation of these models to ensure robust performance."
+      },
+      {
+        "title": "Cars Design Generation Using GANs",
+        "tools": ["Matlab", "Colab (Python)", "Visual Basic", "PyTorch", "CUDA"],
+        "description": "Transforms the car prototyping landscape by utilizing the transformative potential of Style GANs, in conjunction with unsupervised representation learning and a DCGAN implementation in TensorFlow."
+      },
+      {
+        "title": "Anti-Spoofing Fake Face Detection Over Cam Using A.I",
+        "tools": ["Python", "Open CV2", "Tensorflow (Keras)"],
+        "link": "https://github.com/HeavyDriver9999/Face-Anti-Spoofing-with-Multifeature-Videolet-Aggregation.git",
+        "description": "Employs Python, OpenCV2, TensorFlow (Keras), HTML/CSS, and Flask to safeguard against facial spoofing. Leverages AI to detect authentic faces over camera feeds, enhancing security."
+      },
+      {
+        "title": "Legal Statements Classification Using BERT Model LLMs",
+        "tools": ["Colab (Python)", "Bert (Transformer)"],
+        "description": "Utilizes BERT model language models to categorize statements. Powered by Python, this project enhances natural language understanding for accurate and context-aware statement classification."
+      },
+      {
+        "title": "3D Object Detection Using Sobel Algorithm and YOLOv8",
+        "tools": ["Python", "Open CV2", "Tensorflow (Keras)", "HTML/CSS", "Flask"],
+        "description": "Utilizes Python, OpenCV2, TensorFlow (Keras), HTML/CSS, and Flask. The Sobel algorithm enhances image frames, feeding into the YOLOv8 model for real-time 3D object detection. Features include Sobel edge enhancement, YOLOv8 speed and accuracy, and dynamic object tracking."
+      }
+    ],
+    "certificates": [
+      "AWS Academy Graduate - AWS Academy Machine Learning Foundations",
+      "CCNAv7: Introduction to Networks",
+      "TensorFlow: Advanced Techniques",
+      "Generative Adversarial Networks (GANs)"
+    ]
+  }
+  
